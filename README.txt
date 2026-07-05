@@ -24,3 +24,5 @@ Java Development Kit (JDK)
 
 4. Execute the program using the main class:
     java Main
+
+in collaboration with Qhuisten Ng and Ahnaf Shabab Kabir 
